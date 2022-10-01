@@ -12,6 +12,11 @@ outros tipos de documentos em seu directório.
 > Execute o app como um modulo:
 	- py Renomeador.
 
+## Use o instalador.
+Acesse em:
+	dist > cli
+
+
 ## Requerimentos.
 - python >= 3.7
 - PyQt5 == 5.15.7
