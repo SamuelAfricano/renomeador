@@ -14,7 +14,7 @@ outros tipos de documentos em seu directório.
 
 ## Use o instalador.
 Acesse em:
-	dist > cli
+>	dist > cli
 
 
 ## Requerimentos.
